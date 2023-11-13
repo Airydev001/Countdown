@@ -129,7 +129,7 @@ class _CountdownScreenState extends State<CountdownScreen>
                             Text(' mins '),
                             FlipDigit(value: seconds),
                             Text(' secs'),
-                          ],n
+                          ],
                         ),
                       )
                     : ElevatedButton(
